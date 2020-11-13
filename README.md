@@ -57,3 +57,5 @@ Divide the average likes obtained from the number of followers of the handle to 
 Create a bar graph to depict the above obtained information.
 
 
+This project was done as a part of Data Science and Machine Learning course offered by Coding Ninjas.
+
