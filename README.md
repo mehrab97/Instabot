@@ -5,7 +5,7 @@ Your friend has opened a new Food Blogging handle on Instagram and wants to get 
 The project was divided into two parts.
 
 Instabot-I
-You need to create different functions for each task.
+
 The tasks to be performed were the following-
 1. Login to your Instagram Handle
 Submit with sample username and password
@@ -35,6 +35,7 @@ Or The user has no story.
 Or View the story if not yet seen.
 
 Instabot-II
+
 The tasks to be performed were the following-
 1. Now your friend has followed a lot of different food bloggers, he needs to analyse the habits of these bloggers.
 From the list of instagram handles you obtained when you searched ‘food’ in previous project. Open the first 10 handles and find the top 5 which have the highest number of followers
